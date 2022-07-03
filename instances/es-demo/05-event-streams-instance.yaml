@@ -67,4 +67,4 @@ spec:
         class: managed-nfs-storage
         size: 2Gi
         type: persistent-claim
-  version: 11.0.1
+  version: 11.0.2
