@@ -18,4 +18,4 @@ spec:
       class: managed-nfs-storage
     tracingVolume:
       class: managed-nfs-storage
-  version: 2021.4.1-1
+  version: 2021.4.1-6
